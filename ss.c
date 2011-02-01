@@ -1,4 +1,4 @@
-/*ssss abds
+/*sssssss abds
  * FreeSWITCH Modular Media Switching Software Library / Softdd-Switch Application
  * Copyright (C) 2005-2010, Anthony Minessale II <anthm@freeswitch.org>
  *ss
